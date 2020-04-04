@@ -12,6 +12,21 @@ The list might be small for now, but if your language isn't here, go ahead and c
 
 ## Token Pangram?
 
-A [Pangram](https://en.wikipedia.org/wiki/Pangram) in traditional nomenclature is a small sentence that contains every letter in that alphabet! An example in english is: "`the quick brown fox jumps over the lazy dog`"!
+A [Pangram](https://en.wikipedia.org/wiki/Pangram) in traditional nomenclature is a small sentence that contains every letter in that alphabet! An example in english is: `the quick brown fox jumps over the lazy dog`!
 
 A Token Pangram is therefore a program that uses every Token / Keyword in its programming language!
+
+## Checklist
+
+### A ProgPan should:
+
+- include all the languages tokens (this is a constant WIP as languages evolve over time!)
+- try to be small & terse
+- be easy to read by humans (A human has to scroll through it with relative ease to "judge" the ProgPan)
+
+It's somewhat of a balancing act between trying to cram as many tokens into a small space VS giving ample whitespace / breathing room to code that could in _theory_ occur naturally. We want to ensure it doesn't devolve into a cryptic "code-golfesque code cacophony".
+
+### A ProgPan should not:
+
+- have to make sense (but bonus points if it does!)
+- work at runtime / be useful
