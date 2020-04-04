@@ -18,7 +18,7 @@ A Token Pangram is therefore a program that uses every Token / Keyword in its pr
 
 ## Checklist
 
-### A ProgPan should:
+### :heavy_check_mark: A ProgPan should:
 
 - include all the languages tokens (this is a constant WIP as languages evolve over time!)
 - try to be small & terse
@@ -26,7 +26,7 @@ A Token Pangram is therefore a program that uses every Token / Keyword in its pr
 
 It's somewhat of a balancing act between trying to cram as many tokens into a small space VS giving ample whitespace / breathing room to code that could in _theory_ occur naturally. We want to ensure it doesn't devolve into a cryptic "code-golfesque code cacophony".
 
-### A ProgPan should not:
+### :x: A ProgPan should not:
 
 - have to make sense (but bonus points if it does!)
 - work at runtime / be useful
