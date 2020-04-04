@@ -1,0 +1,17 @@
+# ProgPan 
+
+> **Prog**ramming Language Token **Pan**gram
+
+## What?
+
+Hi! Welcome to an attempt at curating a list of "token pangrams" in every language! (all PR's welcome!).
+
+This list might be useful for testing syntax highlighters, color themes, tokenization things... etc!
+
+The list might be small for now, but if your language isn't here, go ahead and clone this repo _anyways_, then you're halfway to submitting a PR for that language already!
+
+## Token Pangram?
+
+A [Pangram](https://en.wikipedia.org/wiki/Pangram) in traditional nomenclature is a small sentence that contains every letter in that alphabet! An example in english is: "`the quick brown fox jumps over the lazy dog`"!
+
+A Token Pangram is therefore a program that uses every Token / Keyword in its programming language!
